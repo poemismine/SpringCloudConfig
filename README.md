@@ -1,2 +1,2 @@
-# springCloudConfig
-test Spring Cloud Config
+# SpringCloudConfig
+Test Spring Cloud Config
